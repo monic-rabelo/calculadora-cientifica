@@ -72,7 +72,7 @@ Após clonar o código e abri-lo, é recomendável que, antes de executar, sejam
 - Abrir o terminal
 - Inserir o seguinte comando:
 ```bash
-gcc -Wall -Wextra .\calculadora.c -o calculadoraexe.c
+gcc -Wall -Wextra .\calculadora.c -o calculadora.exe
 ```
 É possível adicionar qualquer nome ao arquivo executável, após o "-o".
 

@@ -485,7 +485,7 @@ int main() {
                 break;
                 
             default:
-                printf("Operacao invalida, digite uma operacao correta.\n");
+                printf("Operacao invalida, digite uma operacao correta!\n");
                 break;
         }
     }

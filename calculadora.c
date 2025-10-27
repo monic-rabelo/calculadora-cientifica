@@ -492,3 +492,4 @@ int main() {
 
     free(historico); // Limpar o historico 
     return 0;
+}

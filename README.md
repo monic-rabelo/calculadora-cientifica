@@ -79,6 +79,8 @@ gcc -Wall -Wextra .\calculadora.c -o calculadora.exe
 - Wall: vai ativar avisos que o compilador considera útil e fácil de consertar.
 - Wextra: ativa avisos extras que não foram ativados pelo -Wall, cobre casos mais específicos e é mais rigoroso.
 
+O código agora poderá ser desenvolvido em maior qualidade.
+
 ### Execução 
 Após a execução, a saída será:
 ```console
